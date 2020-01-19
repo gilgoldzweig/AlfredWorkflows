@@ -4,6 +4,6 @@ You can view, create and write notes within Alfred
 
 sno -> Simplenote opensnn {text / optional} -> Simplenote new note 
 
-snn -> Simplenote new note using clipboard content
+snc -> Simplenote new note using clipboard content
 
 Download [here](https://github.com/gilgoldzweig/AlfredWorkflows/raw/master/Simplenote/SimpleNote.alfredworkflow)
