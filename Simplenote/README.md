@@ -2,7 +2,9 @@
 
 You can view, create and write notes within Alfred
 
-sno -> Simplenote opensnn {text / optional} -> Simplenote new note 
+sno -> Simplenote open
+
+snn {text / optional} -> Simplenote new note 
 
 snc -> Simplenote new note using clipboard content
 
